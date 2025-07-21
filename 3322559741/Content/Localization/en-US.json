@@ -1,0 +1,24 @@
+{
+	"ItemName": {
+		"DeerclopsPetItem": "Lost Antler",
+		"DeerclopsTrophy": "Nokotan Trophy",
+		"DeerclopsMask": "Nokotan Mask",
+		"DeerclopsBossBag": "Treasure Bag (Nokotan)",
+		"DeerclopsMasterTrophy": "Nokotan Relic",
+		"MusicBoxDeerclops": "Music Box (Shikairo Days)",
+		"DeerThing": "Deer Cracker",
+	},
+	"NPCName": {
+		"Deerclops": "Shikanoko Noko",
+	},
+	"Bestiary_FlavorText": {
+		"npc_Deerclops": "Hailing from a distant land, this deer-like girl lurks in cold places, going after any and all that may possess deer crackers.",
+	},
+	"Achievements": {
+		"DEFEAT_DEERCLOPS_Name": "Antler For Antler",
+		"DEFEAT_DEERCLOPS_Description": "Defeat Nokotan, the strange deer-girl from a foreign land.",
+	},
+	"ItemTooltip":	{
+		"DeerThing": "Summons Nokotan",
+	}
+}
